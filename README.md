@@ -1,4 +1,4 @@
-:juggling_person: *welcome*
+👽 __*Welcome, I'm Brittany Ally.*__
 
 <!---Hi, I’m @bally01
 
