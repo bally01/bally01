@@ -1,4 +1,4 @@
-:juggling_person: *welcome*
+:juggling_person: *welcome*, there's more to come...
 
 <!---Hi, I’m @bally01
 
